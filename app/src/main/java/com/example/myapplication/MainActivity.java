@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "AnhnqCommit1N", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Commmit2", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Commit3NNN", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "AnhnqCommit4N", Toast.LENGTH_SHORT).show();
     }
 }
